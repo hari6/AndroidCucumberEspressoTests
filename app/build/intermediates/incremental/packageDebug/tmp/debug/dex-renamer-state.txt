@@ -1,0 +1,4 @@
+#Fri Jan 29 15:57:55 IST 2021
+base.0=C\:\\Users\\Hari Kishore\\AndroidStudioProjects\\AndrroidCucumberEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

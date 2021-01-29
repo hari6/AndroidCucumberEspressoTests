@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jan 29 15:57:55 IST 2021
+0.base=C\:\\Users\\Hari Kishore\\AndroidStudioProjects\\AndrroidCucumberEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Jan 29 15:54:18 IST 2021
+2.base=C\:\\Users\\Hari Kishore\\AndroidStudioProjects\\AndrroidCucumberEspresso\\app\\build\\intermediates\\assets\\androidTest\\debug
+0.path=classes.dex
+count=3
+1.set=ASSET
+2.path=features/signup.feature
+2.baseType=DIRECTORY
+0.base=C\:\\Users\\Hari Kishore\\AndroidStudioProjects\\AndrroidCucumberEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+2.set=ASSET
+1.baseType=DIRECTORY
+1.path=features/login.feature
+0.baseType=DIRECTORY
+1.base=C\:\\Users\\Hari Kishore\\AndroidStudioProjects\\AndrroidCucumberEspresso\\app\\build\\intermediates\\assets\\androidTest\\debug
+0.set=DEX
