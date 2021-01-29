@@ -1,5 +1,5 @@
 # AndroidCucumberEspressoTests
-This will provide details on Integrating unit tests of Android App using Cucumber framework tool.
+This will provide details on Integrating unit tests of Android App using Cucumber framework tool under android Test package using Instrumentation Runner.
 
 # CucumberEspressoTests
 A sample project covering the combination of Android, Espresso and Cucumber with appropriate details added for android Test packages to perform Unit tests.
